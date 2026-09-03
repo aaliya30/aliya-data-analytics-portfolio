@@ -21,4 +21,8 @@ I have experience in procurement and supply chain operations and I am currently 
 
 ## Projects
 
-Projects will be added here as I complete them.
+### 📊 [Supply Chain Analysis | Power BI](Power-BI/Supply-Chain-Analysis)
+
+Interactive Power BI dashboard analyzing supply chain performance across revenue, supplier quality, inventory, and logistics.
+
+**Tools:** Power BI · DAX · Data Visualization · Row-Level Security (RLS)
