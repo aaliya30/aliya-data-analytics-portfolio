@@ -9,3 +9,17 @@ This Power BI project analyzes supply chain performance across revenue, supplier
 - Executive Overview
 - Supplier & Quality Analysis
 - Inventory & Logistics Analysis
+
+- ## Dashboard Preview
+
+### Executive Overview
+
+![Executive Overview](01-executive-overview.png)
+
+### Supplier & Quality Analysis
+
+![Supplier & Quality Analysis](02-supplier-quality-analysis.png)
+
+### Inventory & Logistics Analysis
+
+![Inventory & Logistics Analysis](03-inventory-logistics-analysis.png)
