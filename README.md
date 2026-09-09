@@ -1,6 +1,6 @@
 # Supply Chain Analytics Portfolio
 
-Hello! My name is Aliya Alkeyeva.
+Hello! My name is Aliya.
 
 I am a Supply Chain and Procurement Specialist transitioning into Supply Chain Analytics.
 
